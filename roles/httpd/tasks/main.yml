@@ -11,7 +11,7 @@
   service: name=httpd state=started enabled=yes
 
 - name: Deploy sample file from GIT
-  git: repo=https://github.com/veerssamples/samplehtml.git dest=/var/www/html
+  git: repo=https://github.com/Bhadra09/samplehtml.git dest=/var/www/html
 
 
 # name: copy configuration template
