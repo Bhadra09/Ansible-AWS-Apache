@@ -27,13 +27,13 @@ anisible-playbook aws_apache.yml
 Troubleshoot
 ----------------
 - If the script didn't work or throwing any erros, please go through "Dynamic Inventory" pages in Ansible
-- If any SSH related errors like Permission Denied or Publick Key related issue, import the AWS Keypair into SSH-Bash profil
+- If any SSH related errors like Permission Denied or Publick Key related issue, import the AWS Keypair into SSH-Bash profile
 
 Syntax:
-$ ssh-agent bash 
+$ ssh-agent bash
 $ ssh-add ~/.ssh/keypair.pem
 
 Author Information
 ------------------
-https://github.com/veerssamples
+https://github.com/Bhadra09
 
