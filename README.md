@@ -18,7 +18,7 @@ Play
 
 Dependencies
 ------------
-Key pait has to be copied in the same path (where the yml file is located)
+Key pair has to be copied in the same path (where the yml file is located)
 
 Example Playbook
 ----------------
