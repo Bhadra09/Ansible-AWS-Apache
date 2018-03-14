@@ -1,0 +1,22 @@
+galaxy_info:
+  author: Bhadra09
+  description: Provision AWS EC2 instances
+
+  license: Apache
+
+  platforms:
+    - name: CentOS
+      versions:
+        - 7.0
+
+  min_ansible_version: 1.0
+
+  galaxy_tags:
+    - ec2
+    - aws
+    - launch
+    - Apache
+
+depedencies: []
+  roles:
+    - Ansible-AWS-Apache
