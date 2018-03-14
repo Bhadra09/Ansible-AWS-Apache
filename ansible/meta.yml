@@ -16,4 +16,6 @@ galaxy_info:
     - aws
     - launch
     - Apache
-dependencies: []
+dependencies:
+  roles:
+     - httpd
